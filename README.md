@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/7wVzV5F.gif" width="100%" alt="Pixel Art Witch Developer">
+  <img src="./src/bruxinha.gif" width="100%" alt="Pixel Art Witch Developer">
 </div>
 
 #
