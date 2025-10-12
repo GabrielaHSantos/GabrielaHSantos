@@ -1,10 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFC0CB&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%E2%9C%A7;Engenheira+de+Dados+%26+IA;Desenvolvedora+Full-Stack" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F59CD3&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%E2%9C%A7;Engenheira+de+Dados+%26+IA;Desenvolvedora+Full-Stack" alt="Typing SVG">
   </a>
 </div>
 
-<img align="center" alt="Header GIF" width="100%" src="https://i.pinimg.com/originals/b2/1e/a2/b21ea2310185a225431103759750b284.gif">
+<div align="center">
+  <img src="https://i.imgur.com/QkvF1Gz.gif" width="60px">
+</div>
 
 #
 
@@ -20,8 +22,8 @@
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
-  <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFC0CB&color:FFF" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFC0CB&color:FFF" alt="LinkedIn"></a>
+  <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F59CD3&color:FFF" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F59CD3&color:FFF" alt="LinkedIn"></a>
 </p>
 
 
@@ -53,10 +55,10 @@
 <div align="center">
   <h3>Estatísticas do GitHub</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFC0CB&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFC0CB&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=F59CD3&text_color=FFF&border_radius=3&border_color=36123c&icon_color=F59CD3&theme=jolly" alt="GitHub stats">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFC0CB&hide=html,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=F59CD3&hide=html,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
@@ -65,5 +67,5 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-DO-GITHUB/SEU-USUARIO-DO-GITHUB/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-DO-GITHUB/SEU-USUARIO-DO-GITHUB/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-DO-GITHUB/SEU-USUARIO-DO-GITHUB/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaHSantos/GabrielaHSantos/output/github-contribution-grid-snake.svg">
 </picture>
