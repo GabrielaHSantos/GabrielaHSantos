@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%E2%9C%A7;Engenheira+de+Dados+%26+IA;Desenvolvedora+Full-Stack" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFC0CB&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%E2%9C%A7;Engenheira+de+Dados+%26+IA;Desenvolvedora+Full-Stack" alt="Typing SVG">
   </a>
 </div>
 
@@ -16,12 +16,12 @@
   
 #
 
-<img align="right" alt="Coding GIF" height="190px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5xb29oZWQ2N3NuaXduOWp3aXZxNXgzcXQ0b25tMDBxM2Q3eW44ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hFTaU0/giphy.gif">
+<img align="right" alt="Coding GIF" height="190px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32097df89542a2da0371493f069b1689.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
-  <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn"></a>
+  <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFC0CB&color:FFF" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFC0CB&color:FFF" alt="LinkedIn"></a>
 </p>
 
 
@@ -53,10 +53,10 @@
 <div align="center">
   <h3>Estatísticas do GitHub</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFC0CB&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFC0CB&theme=jolly" alt="GitHub stats">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielaHSantos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFC0CB&hide=html,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
