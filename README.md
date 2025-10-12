@@ -1,17 +1,19 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F59CD3&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%E2%9C%A7;Engenheira+de+Dados+%26+IA;Desenvolvedora+Full-Stack" alt="Typing SVG">
-  </a>
-</div>
+<h1 align="center">
+  Olá, eu sou a Gabriela Henrique! 
+  <img src="https://i.imgur.com/QkvF1Gz.gif" width="40px">
+</h1>
+<h3 align="center">Engenheira de Dados & IA | Desenvolvedora Full-Stack</h3>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/i3x03ANa27mv33eI12/giphy.gif" width="60px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F59CD3&center=true&vCenter=true&random=false&width=550&lines=Apaixonada+por+dados+e+inova%C3%A7%C3%A3o!;Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo+e+intelig%C3%AAncia;" alt="Typing SVG">
+  </a>
 </div>
 
 #
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas apaixonada por Dados, Inteligência Artificial e tecnologia. 
+  Estudante de Análise e Desenvolvimento de Sistemas, com paixão por Dados, Inteligência Artificial e tecnologia. 
   <br>
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
 </p>
@@ -33,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="30" alt="Spark logo"  />
   <img width="12" />
@@ -52,13 +54,11 @@
 
 #
 
+### Minhas Estatísticas do GitHub
 <div align="center">
-  <h3>Estatísticas do GitHub</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielaHSantos&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=F59CD3&text_color=FFF&border_radius=3&border_color=36123c&icon_color=F59CD3&theme=jolly" alt="GitHub stats">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielaHSantos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=F59CD3&hide=html,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  <a href="https://github.com/GabrielaHSantos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaHSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaHSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
