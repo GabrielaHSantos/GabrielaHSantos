@@ -4,13 +4,11 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="./src/bruxinha.gif" width="100%" alt="Pixel Art Witch Developer">
-</div>
-
 #
 
-<p align="center">
+<img align="right" alt="Pixel Art Witch Developer" height="180px" src="./src/bruxinha.gif">
+
+<p align="left">
   Estudante de Análise e Desenvolvimento de Sistemas, com paixão por Dados, Inteligência Artificial e tecnologia. 
   <br>
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
