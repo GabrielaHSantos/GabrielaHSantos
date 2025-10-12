@@ -14,7 +14,7 @@
   
 <br>
 
-<img align="left" alt="Pixel Art Witch Developer" height="190px" src="./src/bruxinha.gif">
+<img align="right" alt="Pixel Art Witch Developer" height="190px" src="./src/bruxinha.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
 </div>
 
-<br clear="left"/>
+<br clear="right"/>
 
 #
 
