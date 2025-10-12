@@ -6,9 +6,7 @@
 
 #
 
-<img align="right" alt="Pixel Art Witch Developer" height="180px" src="./src/bruxinha.gif">
-
-<p align="left">
+<p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas, com paixão por Dados, Inteligência Artificial e tecnologia. 
   <br>
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
@@ -44,6 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
+</div>
+
+#
+
+<div align="center">
+  <img src="./src/bruxinha.gif" width="100%" alt="Pixel Art Witch Developer">
 </div>
 
 #
