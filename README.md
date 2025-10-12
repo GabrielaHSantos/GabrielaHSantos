@@ -1,12 +1,6 @@
-<h1 align="center">
-  Olá, eu sou a Gabriela Henrique! 
-  <img src="https://i.imgur.com/QkvF1Gz.gif" width="40px">
-</h1>
-<h3 align="center">Engenheira de Dados & IA | Desenvolvedora Full-Stack</h3>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F59CD3&center=true&vCenter=true&random=false&width=550&lines=Apaixonada+por+dados+e+inova%C3%A7%C3%A3o!;Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo+e+intelig%C3%AAncia;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F59CD3&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%E2%9C%A7;Engenheira+de+Dados+%26+IA;Desenvolvedora+Full-Stack" alt="Typing SVG">
   </a>
 </div>
 
