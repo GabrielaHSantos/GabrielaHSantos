@@ -6,9 +6,7 @@
 
 #
 
-<img align="right" alt="Pixel Art Witch Developer" height="190px" src="./src/bruxinha.gif">
-
-<p align="left">
+<p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas, com paixão por Dados, Inteligência Artificial e tecnologia. 
   <br>
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
@@ -16,12 +14,13 @@
   
 <br>
 
+<img align="left" alt="Pixel Art Witch Developer" height="190px" src="./src/bruxinha.gif">
+
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
   <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-F59CD3?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"></a>
   <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-F59CD3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
 
 <h3 align="left">Minhas Tecnologias</h3>
 <div align="left">
@@ -45,6 +44,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
 </div>
+
+<br clear="left"/>
 
 #
 
