@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F59CD3&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%E2%9C%A7;Engenheira+de+Dados+%26+IA;Desenvolvedora+Full-Stack" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F59CD3&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Henrique!+%F0%9F%92%96;Engenheira+de+Dados+%26+IA+%F0%9F%92%96;Desenvolvedora+Full-Stack+%F0%9F%92%96;" alt="Typing SVG">
   </a>
 </div>
 
@@ -12,14 +12,14 @@
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
 </p>
   
-#
+<br>
 
 <img align="right" alt="Coding GIF" height="190px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32097df89542a2da0371493f069b1689.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
-  <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F59CD3&color:FFF" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F59CD3&color:FFF" alt="LinkedIn"></a>
+  <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-F59CD3?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-F59CD3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
