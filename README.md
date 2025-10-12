@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/7wVzV5F.gif" width="100%" alt="Pixel Art Witch Developer">
+</div>
+
 #
 
 <p align="center">
@@ -11,14 +15,8 @@
   <br>
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
 </p>
-
-<div align="center">
-  <img src="https://i.imgur.com/GOUf3aV.gif" width="80px">
-</div>
   
 <br>
-
-<img align="right" alt="Coding GIF" height="190px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32097df89542a2da0371493f069b1689.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
