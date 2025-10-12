@@ -11,6 +11,10 @@
   <br>
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
 </p>
+
+<div align="center">
+  <img src="https://i.imgur.com/GOUf3aV.gif" width="80px">
+</div>
   
 <br>
 
@@ -51,8 +55,8 @@
 ### Minhas Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/GabrielaHSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaHSantos&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaHSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaHSantos&layout=compact&langs_count=7&theme=rose_pine"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaHSantos&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
