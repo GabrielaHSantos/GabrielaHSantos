@@ -12,7 +12,7 @@
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
 </p>
   
-<br>
+#
 
 <img align="right" alt="Pixel Art Witch Developer" height="190px" src="./src/bruxinha.gif">
 
@@ -45,8 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
 </div>
-
-<br clear="right"/>
 
 #
 
