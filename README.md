@@ -19,7 +19,7 @@
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
   <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-F59CD3?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/gabriela-santos-383689350"><img src="https://img.shields.io/badge/-LinkedIn-F59CD3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/gabriela-h-santos"><img src="https://img.shields.io/badge/-LinkedIn-F59CD3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
