@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4DB8FF&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Santos!+%F0%9F%A6%8B;Engenheira+de+Dados+%26+IA+%F0%9F%A6%8B;Desenvolvedora+Full-Stack+%F0%9F%A6%8B" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4DB8FF&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Santos!+%D8%9B%E0%BC%8A;Engenheira+de+Dados+%26+IA+%D8%9B%E0%BC%8A;Desenvolvedora+Full-Stack+%D8%9B%E0%BC%8A" alt="Typing SVG">
   </a>
 </div>
 
@@ -13,8 +13,6 @@
 </p>
   
 <br>
-
-<img align="right" alt="Pixel Art Witch Developer" height="190px" src="./src/bruxinha.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
@@ -45,7 +43,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
 </div>
 
-<br clear="right"/>
+#
+
+<h3 align="left">💻 Projetos em Destaque</h3>
+<div align="center">
+  <a href="https://github.com/GabrielaHSantos/finpanda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=finpanda&theme=tokyonight" alt="Projeto FinPanda"/>
+  </a>
+  <a href="https://github.com/GabrielaHSantos/analise-mercado-olist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=analise-mercado-olist&theme=tokyonight" alt="Análise de Mercado Olist"/>
+  </a>
+</div>
 
 #
 
