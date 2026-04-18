@@ -4,21 +4,26 @@
   </a>
 </div>
 
-#
+<hr>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas, com paixão por Dados, Inteligência Artificial e tecnologia. 
   <br>
   Minha jornada me proporcionou uma base sólida tanto no desenvolvimento de software quanto na engenharia de dados. Busco sempre aplicar meus conhecimentos para criar soluções inovadoras.
 </p>
-  
-<br>
+
+<hr>
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
   <a href="mailto:gholart12@outlook.com"><img src="https://img.shields.io/badge/-Email-4DB8FF?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"></a>
   <a href="https://www.linkedin.com/in/gabriela-h-santos"><img src="https://img.shields.io/badge/-LinkedIn-4DB8FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+<div align="right">
+  <img src="./src/sleepy_cat.gif" width="75" alt="Sleepy Cat Divider">
+</div>
+<hr>
 
 <h3 align="left">Tech Stack</h3>
 <div align="left">
@@ -43,19 +48,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
 </div>
 
-#
+<hr>
 
 <h3 align="left">💻 Projetos em Destaque</h3>
 <div align="center">
-  <a href="https://github.com/GabrielaHSantos/finpanda">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=finpanda&theme=tokyonight" alt="Projeto FinPanda"/>
+  <a href="https://github.com/GabrielaHSantos/Calculadora-de-Cashback-Fintech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=Calculadora-de-Cashback-Fintech&theme=tokyonight" alt="Calculadora de Cashback Fintech"/>
   </a>
-  <a href="https://github.com/GabrielaHSantos/analise-mercado-olist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=analise-mercado-olist&theme=tokyonight" alt="Análise de Mercado Olist"/>
+  <a href="https://github.com/GabrielaHSantos/olist-ibge-market-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=olist-ibge-market-analysis&theme=tokyonight" alt="Análise de Mercado Olist"/>
+  </a>
+  <a href="https://github.com/GabrielaHSantos/pipeline_etl_dados_climaticos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=pipeline_etl_dados_climaticos&theme=tokyonight" alt="Pipeline ETL de Dados Climáticos"/>
   </a>
 </div>
 
-#
+<hr>
 
 ### Minhas Estatísticas do GitHub
 <div align="center">
@@ -65,7 +73,7 @@
   </a>
 </div>
 
-#
+<hr>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaHSantos/GabrielaHSantos/output/github-contribution-grid-snake-dark.svg">
