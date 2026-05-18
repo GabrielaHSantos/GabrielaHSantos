@@ -53,13 +53,13 @@
 <h3 align="left">💻 Projetos em Destaque</h3>
 <div align="center">
   <a href="https://github.com/GabrielaHSantos/Calculadora-de-Cashback-Fintech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=Calculadora-de-Cashback-Fintech&theme=tokyonight&v=1" alt="Calculadora de Cashback Fintech"/>
+    <img src="https://project-1tp2m.vercel.app/api/pin/?username=GabrielaHSantos&repo=Calculadora-de-Cashback-Fintech&theme=tokyonight" alt="Calculadora de Cashback Fintech"/>
   </a>
   <a href="https://github.com/GabrielaHSantos/olist-ibge-market-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=olist-ibge-market-analysis&theme=tokyonight&v=1" alt="Análise de Mercado Olist"/>
+    <img src="https://project-1tp2m.vercel.app/api/pin/?username=GabrielaHSantos&repo=olist-ibge-market-analysis&theme=tokyonight" alt="Análise de Mercado Olist"/>
   </a>
   <a href="https://github.com/GabrielaHSantos/pipeline_etl_dados_climaticos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaHSantos&repo=pipeline_etl_dados_climaticos&theme=tokyonight&v=1" alt="Pipeline ETL de Dados Climáticos"/>
+    <img src="https://project-1tp2m.vercel.app/api/pin/?username=GabrielaHSantos&repo=pipeline_etl_dados_climaticos&theme=tokyonight" alt="Pipeline ETL de Dados Climáticos"/>
   </a>
 </div>
 
@@ -68,8 +68,8 @@
 ### Minhas Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/GabrielaHSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaHSantos&layout=compact&langs_count=7&theme=tokyonight&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaHSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
+    <img height="180em" src="https://project-1tp2m.vercel.app/api/top-langs/?username=GabrielaHSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://project-1tp2m.vercel.app/api?username=GabrielaHSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
